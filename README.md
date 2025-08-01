@@ -1,6 +1,25 @@
 # 💫 About Me:
- A Software Engineering Student (BSSE) Passionate About AI, ML & Computer Vision<br><br>I enjoy building intelligent systems that can learn from data and solve real-world problems.  <br>My main focus is applying deep learning to visual data—working on tasks like:<br><br>- 🧠 Object Detection  <br>- 🖼️ Image Classification  <br>- 🎯 Feature Extraction</h2>
+I'm a BS Software Engineering student with a deep passion for Artificial Intelligence, especially in the areas of Machine Learning, Deep Learning, and Computer Vision. I enjoy building intelligent systems that learn from data and make meaningful predictions or decisions in real-world applications.
 
+<br>My primary focus is on applying deep learning techniques to visual data. I've worked on projects involving:<br>
+
+🧠 Object Detection – Identifying and localizing objects in images using models like YOLO and SSD.
+
+🖼️ Image Classification – Categorizing visual data using CNN-based architectures such as ResNet and EfficientNet.
+
+🎯 Feature Extraction – Extracting meaningful representations from images to feed into downstream ML models or tasks.
+
+<br>I'm also exploring the intersection of computer vision and large language models (LLMs)—integrating visual and textual understanding to build more comprehensive AI systems.
+
+<br>Currently, I’m expanding my skill set in:
+
+🧾 Multimodal AI (Vision + Language)
+
+🔍 Model interpretability and explainability
+
+🛠️ Deployment of ML models in real-world environments (e.g., using TensorFlow Lite, ONNX, or Flask APIs)
+
+<br>I aim to contribute to impactful AI solutions and research that can bridge the gap between cutting-edge technology and real-world use cases.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/]saifullah-haider-944a38278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifullah44356@gmail.com) 
